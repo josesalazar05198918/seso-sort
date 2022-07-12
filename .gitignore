@@ -70,3 +70,6 @@ npm-debug.log
 # Vagrant Specific #
 #####################
 .vagrant
+
+# Tpm log files
+/solution/tmp/*
